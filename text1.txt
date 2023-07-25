@@ -1,1 +1,2 @@
-Created first 
+Successfuly setup mu first test1.txt file into git repsotary
+
